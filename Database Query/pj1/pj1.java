@@ -1,5 +1,10 @@
 
 //THIS CODE IS MY OWN WORK, IT WAS WRITTEN WITHOUT CONSULTING A TUTOR OR CODE WRITTEN BY OTHER STUDENTS - Gene Lee
+/* The Java program in this project will in the data stored in the "db-data" file (using the meta data information 
+stored in the file "db-description") and prints the records and then finds (and prints) the smallest (minimum) of 
+the value of a specific field.
+*/
+
 import java.io.*;
 
 class DataDescription
